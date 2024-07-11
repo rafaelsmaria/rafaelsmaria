@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">- Mobile developer<br><br>- Content creator at <a href="instagram.com/rafaelmaria.dev">@rafaelmaria.dev</a> </p>
+<p align="left">- Mobile developer<br><br>- Content creator at <a href="https://www.instagram.com/rafaelmaria.dev" target="_blank"> @rafaelmaria.dev</a> </p>
 
 ###
 
@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/rafaelsmaria/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="instagram.com/rafaelmaria.dev" target="_blank">
+  <a href="https://www.instagram.com/rafaelmaria.dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
