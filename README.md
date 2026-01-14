@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">- Mobile developer<br><br>- Content creator at <a href="https://www.instagram.com/rafaelmaria.dev" target="_blank"> @rafaelmaria.dev</a> </p>
+<p align="left">- Fullstack developer<br><br>- Content creator at <a href="https://www.instagram.com/rafaelmaria.dev" target="_blank"> @rafaelmaria.dev</a> </p>
 
 ###
 
@@ -13,6 +13,10 @@
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="dart logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
